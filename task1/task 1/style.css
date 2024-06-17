@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(25deg,#72a805,#083da8);
+}
+.calculater{
+    padding-top: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: auto;
+    background: linear-gradient ( 25deg,#ec8e13,#ff0303);
+}
+h1{
+ padding: 20px;
+}
+input{
+    font-size: large;
+    border: none;
+    color: antiquewhite;
+    background-color: transparent;
+}
+button{
+    background-color: transparent;
+    border: none;
+    margin: 20px;
+    font-size: large;
+    color: red;
+}
+p{
+    font-size: larger;
+    text-align: center;
+    color: red;
+}
